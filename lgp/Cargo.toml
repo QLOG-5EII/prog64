@@ -1,0 +1,8 @@
+[package]
+name = "prog64"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+env = { path = "../env"}
+rand = { workspace = true }
